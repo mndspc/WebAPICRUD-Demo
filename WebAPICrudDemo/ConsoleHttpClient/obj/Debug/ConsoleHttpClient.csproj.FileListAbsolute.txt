@@ -1,0 +1,12 @@
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\bin\Debug\ConsoleHttpClient.exe.config
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\bin\Debug\ConsoleHttpClient.exe
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\bin\Debug\ConsoleHttpClient.pdb
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\bin\Debug\Newtonsoft.Json.dll
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\bin\Debug\System.Net.Http.Formatting.dll
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\bin\Debug\Newtonsoft.Json.xml
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\bin\Debug\System.Net.Http.Formatting.xml
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\obj\Debug\ConsoleHttpClient.csproj.AssemblyReference.cache
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\obj\Debug\ConsoleHttpClient.csproj.CoreCompileInputs.cache
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\obj\Debug\ConsoleHttpClient.csproj.CopyComplete
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\obj\Debug\ConsoleHttpClient.exe
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\ConsoleHttpClient\obj\Debug\ConsoleHttpClient.pdb
