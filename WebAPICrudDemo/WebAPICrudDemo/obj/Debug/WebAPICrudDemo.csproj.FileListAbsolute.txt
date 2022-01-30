@@ -72,3 +72,6 @@ D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\WebAPICr
 D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\WebAPICrudDemo\bin\System.Web.Cors.dll
 D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\WebAPICrudDemo\bin\System.Web.Http.Cors.dll
 D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\WebAPICrudDemo\bin\System.Web.Http.Cors.xml
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\WebAPICrudDemo\bin\Microsoft.Web.Infrastructure.dll
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\WebAPICrudDemo\bin\Swashbuckle.Core.dll
+D:\Corporate\Nordic Academy\WebAPI\Demos\WebAPICRUD-Demo\WebAPICrudDemo\WebAPICrudDemo\bin\WebActivatorEx.dll
